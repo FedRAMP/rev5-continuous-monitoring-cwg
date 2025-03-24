@@ -2,7 +2,7 @@
 
 ## Table of Contents 
 - [Background](#background)
-- [Rev5 Continuous Monitoring Working Group](#rev5-continuous-monitoring-working-group).  
+- [Rev5 Continuous Monitoring Working Group](#rev5-continuous-monitoring-working-group)  
 - [Participation](#participation)
 - [Key Community Working Groups Activities](#key-community-working-groups-activities)
 - [Interaction with FedRAMP](#interaction-with-fedramp)
@@ -27,10 +27,10 @@ The Rev5 Continuous Monitoring Working Group is especially relevant for members 
 - FedRAMP Advisors/Consultants 
 
 ## Key Community Working Groups Activities
-FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP but participants are strongly encouraged to self-organize around activities related to the CWG. 
-  - **Transition of all Overisght Activities to Agencies**
-  - **Identify and Share Best Practices in Continuos Monitoring**
-  - **Keep Legacy Authorized Partties abreast of Authorization Changes**
+FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP but participants are strongly encouraged to self-organize around activities related to the CWG.
+  - **Transition of all Oversight Activities to Agencies**
+  - **Identify and Share Best Practices in Continuous Monitoring**
+  - **Keep Legacy Authorized Parties abreast of Authorization Changes**
     
 ## Interaction with FedRAMP
 The Rev5 Continuous Monitoring Working Group will be managed by the following member of the FedRAMP PMO:
@@ -65,7 +65,7 @@ The first meeting will be held on Monday, March 31st from 1-2 PM via Zoom.
 
 [REGISTER HERE](https://gsa.zoomgov.com/meeting/register/m39vhY_hSl6YRBwwpRPdgw)
 
-[ZoomGov]([https://gsa.zoomgov.com/j/16196570234?pwd=UW5WaWFWY1lSTHhNaHdWYW1EbnZjdz09&omn=1616807027](https://gsa.zoomgov.com/j/1616807027?pwd=mnVomqu5xiWIiPh7zStDQhiLuh3yQN.1)
+[ZoomGov](https://gsa.zoomgov.com/j/1616807027?pwd=mnVomqu5xiWIiPh7zStDQhiLuh3yQN.1)
 
 • 833 435 1820 US Toll-free
 • 833 568 8864 US Toll-free

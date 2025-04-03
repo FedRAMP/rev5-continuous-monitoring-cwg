@@ -95,7 +95,7 @@ The "report-template.md" provides the template that CSPs should use to report co
 The Overall Risk Score is calculated by taking the average of all 8 KSIs, and grading the result. An "A" is 90%-100%, a "B" is 80%-90%, etc.
 
 ### KSI 1: Inventory Visibility Coverage Rate
-The Inventory Visibility Coverage Rate is calculated by comparing the defined inventory to the scan targets. If there are unauthorized assets found (e.g., there are inventory items not targeted by scans, or scan targets not tracked as inventory components) then the percentage should reflect the difference. For containers, the image types defined in the inventory should be compared to image types for active runtime containers in production. 
+The Inventory Visibility Coverage Rate is calculated by comparing the defined inventory to the scan targets. If there are unauthorized assets found (e.g., there are inventory items not targeted by scans, or scan targets not tracked as inventory components) then the percentage should reflect the difference. For containers, the image types defined in the inventory should be compared to image types (i.e., type of individual resource or component) for active runtime containers in production. 
 Example:
 - 3,241 components in inventory
 - 10 unauthorized components

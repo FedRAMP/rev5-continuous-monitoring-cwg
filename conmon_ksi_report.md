@@ -197,8 +197,8 @@ List of tests performed (i.e., SAST and SCA, vulnerability scans in a staging en
 ##### Security Tests Status: [Pass-Fail]
 Results of the tests in scope that demonstrate adequate security outcomes
 
-#### If PII Introduced:
-- PIA Status: [Yes/No/NA]
+#### If Personally Identifiable Information (PII) Introduced:
+- Privacy Impact Analysis (PIA) Status: [Yes/No/NA]
 
 #If Major Architecture Change:
 - Penetration Test: [Yes/No/NA]

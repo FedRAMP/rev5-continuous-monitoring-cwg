@@ -9,11 +9,11 @@ The community mediator will host a bi-weekly town hall for Working Group updates
 
 Recordings for the town hall meetings can be found below. The links to the recordings may be posted a business day or two after the meeting occurred. 
 
-| Meeting Date |Meeting Slides |Zoom Recording Link | Zoom Recording Password | Duration |
-|--------------|---------------|--------------------|-------------------------|----------|
-| 3/31/2025    | [Kickoff Meeting Slides](https://github.com/FedRAMP/rev5-continuous-monitoring-cwg/blob/main/Rev5%20ConMon%20Working%20Group-3_31%20Kick-off.pdf) | [Video Link](https://gsa.zoomgov.com/rec/share/ONr3EfONpz3H7_PeD1T0FV8Afw9LmqQCYDVQYl8C19Lj_vHGP8JF9Mfkc2WPxJgA.UOZPp0zPd8xMzuup) | 1S=q&3c0                      | 19:54 |
-| 4/14/2025    | [4/14 Meeting Slides](https://github.com/FedRAMP/rev5-continuous-monitoring-cwg/blob/main/Rev5%20ConMon%20Working%20Group-4_14.pdf) | [Video Link](https://gsa.zoomgov.com/rec/share/l2zkW8rnCT275tGPnLB_7y7pn_UfoC4Qi49unn4rCzPdO3wAb8bUrCQ4Ozm_5qTG.j2X6cczWuLveeoff) | pi7#twyG |   18:49 |
-
+| Meeting Date |Meeting Slides |Zoom Recording Link | Duration |
+|--------------|---------------|--------------------|----------|
+| 3/31/2025    | [Kickoff Meeting Slides](https://github.com/FedRAMP/rev5-continuous-monitoring-cwg/blob/main/Rev5%20ConMon%20Working%20Group-3_31%20Kick-off.pdf) | [Video Link](https://www.youtube.com/watch?v=EyDgFYTz_xA)     | 19:54 |
+| 4/14/2025    | [4/14 Meeting Slides](https://github.com/FedRAMP/rev5-continuous-monitoring-cwg/blob/main/Rev5%20ConMon%20Working%20Group-4_14.pdf) | [Video Link](https://www.youtube.com/watch?v=hdup9iQOxk8) |  18:49 |
+| 4/28/2025    | [4/28 Meeting Slides](https://github.com/FedRAMP/rev5-continuous-monitoring-cwg/blob/main/Rev5%20ConMon%20Working%20Group-4_28%20.pdf) | [Video Link Pending Upload]() |  |    |
 
 
 

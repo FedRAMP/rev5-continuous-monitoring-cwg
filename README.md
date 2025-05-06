@@ -1,7 +1,7 @@
 # Rev5 Continuous Monitoring Working Group
 Welcome to the *Rev5 Continuous Monitoring* Community Working Group! Please refer to the [Working Group Plan](https://github.com/FedRAMP/rev5-continuous-monitoring/blob/main/plan.md) for information about the goals and primary audience of the working group. 
 
-The community mediator will host a bi-weekly town hall for Working Group updates on Mondays fform 1:00-1:30 ET.  For schedule and to register, please click the link below.
+The community mediator will host a bi-weekly town hall for Working Group updates on Mondays from 1:00-1:30 ET.  For schedule and to register, please click the link below.
 
 [REGISTER HERE](https://gsa.zoomgov.com/meeting/register/4GRcLcoWTdWnSKQL2u3PWQ)
 

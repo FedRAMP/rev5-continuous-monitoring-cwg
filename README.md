@@ -13,7 +13,7 @@ Recordings for the town hall meetings can be found below. The links to the recor
 |--------------|---------------|--------------------|----------|
 | 3/31/2025    | [Kickoff Meeting Slides](https://github.com/FedRAMP/rev5-continuous-monitoring-cwg/blob/main/Rev5%20ConMon%20Working%20Group-3_31%20Kick-off.pdf) | [Video Link](https://www.youtube.com/watch?v=EyDgFYTz_xA)     | 19:54 |
 | 4/14/2025    | [4/14 Meeting Slides](https://github.com/FedRAMP/rev5-continuous-monitoring-cwg/blob/main/Rev5%20ConMon%20Working%20Group-4_14.pdf) | [Video Link](https://www.youtube.com/watch?v=hdup9iQOxk8) |  18:49 |
-| 4/28/2025    | [4/28 Meeting Slides](https://github.com/FedRAMP/rev5-continuous-monitoring-cwg/blob/main/Rev5%20ConMon%20Working%20Group-4_28%20.pdf) | [Video Link Pending Upload]() |  |    |
+| 4/28/2025    | [4/28 Meeting Slides](https://github.com/FedRAMP/rev5-continuous-monitoring-cwg/blob/main/Rev5%20ConMon%20Working%20Group-4_28%20.pdf) | [Video Link](https://youtu.be/kBF2ojthmT0) | 13:13 |
 
 
 

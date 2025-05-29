@@ -1,13 +1,10 @@
-# Rev5 Continuous Monitoring Working Group
-Welcome to the *Rev5 Continuous Monitoring* Community Working Group! Please refer to the [Working Group Plan](https://github.com/FedRAMP/rev5-continuous-monitoring/blob/main/plan.md) for information about the goals and primary audience of the working group. 
+# Rev5 Continuous Monitoring Working Group Archive
 
-The community mediator will host a bi-weekly town hall for Working Group updates on Mondays from 1:00-1:30 ET.  For schedule and to register, please click the link below.
-
-[REGISTER HERE](https://gsa.zoomgov.com/meeting/register/4GRcLcoWTdWnSKQL2u3PWQ)
+Welcome to the archived repository and discussion forum for the Rev5 Continuous Monitoring Working Group! FedRAMP no longer maintains this repository. The PMO consolidated all community working groups into a new repository and forum, [github.com/FedRAMP/community](https://github.com/FedRAMP/community/discussions/). You can find more information about this change at the [fedramp.gov/community](https://fedramp.gov/community) page.
 
 ## Meeting Recordings
 
-Recordings for the town hall meetings can be found below. The links to the recordings may be posted a business day or two after the meeting occurred. 
+To quickly access the most recent meeting recordings, click a YouTube link for a specific recording or open this group's playlist on YouTube [with this link](https://www.youtube.com/c/FedRAMP).
 
 | Meeting Date |Meeting Slides |Zoom Recording Link | Duration |
 |--------------|---------------|--------------------|----------|
